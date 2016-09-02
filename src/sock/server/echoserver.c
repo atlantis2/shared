@@ -1,3 +1,6 @@
+/*
+ * simple echo server 
+ */
 #include <arpa/inet.h>
 #include <stdio.h>
 #include <stdint.h>
